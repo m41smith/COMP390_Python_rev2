@@ -18,4 +18,3 @@ class Npc:
 
     def set_hp(self, num):
         self.hp = num
-

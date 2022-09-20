@@ -1,5 +1,6 @@
 import npc_class
 
+
 def main():
     npc = {
         'npc_type': 'monster',
@@ -37,9 +38,6 @@ def main():
     monster1.set_hp(78)
 
     print(monster1.hp)
-
-
-
 
 
 if __name__ == '__main__':
