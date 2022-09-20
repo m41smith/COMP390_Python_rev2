@@ -19,5 +19,6 @@ def add_to_string(incoming_str):
     new_string = f'{incoming_str} this is the other half'
     return new_string
 
-def change_elemete_list(some_list):
+
+def change_element_list(some_list):
     some_list[0] = 'new_string'
